@@ -1,2 +1,2 @@
-# pokemonsorter
+# pokemonSorter
 Pokemon Sorter
